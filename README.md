@@ -1,6 +1,6 @@
 # DIO - Trilha Java Básico
 ### Desafio Programação Orientada a Objetos
-Este é um projeto criado durante o bootcamp santander dentro da plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">Digital Innovation One</a></strong>. 
+Este é um projeto criado durante o bootcamp santander na plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">Digital Innovation One</a></strong>. 
 
 
 ## Abstração
